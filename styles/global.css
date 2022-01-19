@@ -16,6 +16,7 @@ body {
     font-family: 'Pacifico', cursive;
     background-color: var(--primary-background);
     color: var(--text-color);
+  
 
     /* layout */
     display: grid;
@@ -45,4 +46,8 @@ footer {
     align-self: stretch;
     font-family: 'Neonderthaw', cursive;
 }
-<span Class=”italics”>Kimber</span> 
+
+.border { 
+    border-radius: 5px blue
+}
+{border-style: dotted;}
