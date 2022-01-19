@@ -14,6 +14,3 @@ The plan is to make a plan.
     git push origin dev --> then create pull request in github
 6. Ensure work is done on dev branch and then submit Pull request link to Canvas
 DUE 10am Weds
-
-
-

@@ -8,7 +8,7 @@
     --accent-light: #ED8F11;
     --accent-dark: #C27A18;
     
-    --gutter: 20px;
+    --gutter: 60px;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 
     /* layout */
     display: grid;
-    grid-template-rows: 80px 1fr auto;
+    grid-template-rows: 68px 1fr auto;
 
 }
 
@@ -29,8 +29,8 @@ header {
     display: flex;
     justify-content: flex-start;
     background-color: var(--chrome-background);
-    box-shadow: 0px 10px 10px -12px rgba(0,0,0,0.45);
-    padding: 0 var(--gutter);
+    box-shadow: 0px 10px 10px -120px rgba(0,0,0,0.45);
+    padding: 100 var(--gutter);
     font-family: 'Pacifico', cursive;
 }
 
@@ -41,7 +41,8 @@ main {
 
 footer {
     background-color: var(--chrome-background-opaque);
-    padding: 10px var(--gutter);
+    padding: 5px var(--gutter);
     align-self: stretch;
     font-family: 'Neonderthaw', cursive;
 }
+<span Class=”italics”>Kimber</span> 
